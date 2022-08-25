@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GetWebsiteTitle" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-24T19:51:47" hostname="DESKTOP-07VNIKL" time="18.139">
+<testsuite name="Intercity" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-25T16:29:51" hostname="DESKTOP-07VNIKL" time="22.766">
   <properties/>
-  <testcase name="phoneNumber" classname="GetWebsiteTitle" time="18.139"/>
+  <testcase name="dashboardView" classname="Intercity" time="22.766"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 61256
+Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 52475
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Aug 25, 2022 1:51:49 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Aug 25, 2022 10:29:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected upstream dialect: W3C
-Aug 25, 2022 1:51:49 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Aug 25, 2022 10:29:53 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found exact CDP implementation for version 104
 ]]></system-err>
 </testsuite>
